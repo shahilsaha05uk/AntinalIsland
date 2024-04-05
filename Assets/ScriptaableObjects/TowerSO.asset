@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88c05866f97ab54eb6f0adfd6c5baae, type: 3}
+  m_Name: TowerSO
+  m_EditorClassIdentifier: 
+  Towers:
+  - ID: 0
+    Name: T0
+    Cost: 300
+    btnImage: {fileID: 21300000, guid: 6d391596b8882c14baaaa20cd313e841, type: 3}
+    Asset: {fileID: 4168907174457865146, guid: 2117bbb60da6a0042b570a813876cc8d, type: 3}
+  - ID: 1
+    Name: T1
+    Cost: 500
+    btnImage: {fileID: 21300000, guid: d8108e50be9cf7f49878337929803edd, type: 3}
+    Asset: {fileID: 5442318506047442277, guid: bdc98420a77b67944b915237cdfd5d98, type: 3}
+  - ID: 2
+    Name: T2
+    Cost: 800
+    btnImage: {fileID: 21300000, guid: cdec13907ffc75749ab2ed436bec6b14, type: 3}
+    Asset: {fileID: 6488884170752996983, guid: 76c9912185bcdc9419adfbb4867cec17, type: 3}
